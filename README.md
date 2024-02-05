@@ -1,5 +1,4 @@
-Statewise COVID Analysis for India 
-Overview
+Statewise COVID Analysis for India:
 Welcome to the Statewise COVID Analysis project for India! This project provides a comprehensive analysis of COVID-19 data on a statewise basis, offering insights through data cleaning, feature engineering, and visualization.
 
 Key Highlights 
