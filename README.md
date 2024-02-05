@@ -17,6 +17,7 @@ Top 5 Vaccinated States: [Bar Graph]
 Bottom 5 Vaccinated States: [Bar Graph]
 
 How to Use the Project 
+
 Clone the Repository:
 git clone https://github.com/Garima-DA-BA/Covid-Analysis-Project.git
 cd Covid-Analysis-Project
